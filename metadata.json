@@ -1,0 +1,6 @@
+{
+  "name": "Idea Bridge",
+  "description": "SaaS venture studio turning systemic real-world frictions into community-validated solutions and commercial ventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
